@@ -1,1 +1,0 @@
-print('gang gang n***a')
